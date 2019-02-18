@@ -1,0 +1,19 @@
+.borderdiv {
+  border-radius: 10px;
+  width: 90%;
+  text-align: center;
+  margin: auto;
+  border: 1px solid black;
+}
+.borderdiv:hover {
+  background-image: linear-gradient(
+    to bottom,
+    #edbbbd,
+    #eec5c9,
+    #efcfd4,
+    #f0dade,
+    #f1e4e7
+  );
+
+  transition: 0.7s;
+}

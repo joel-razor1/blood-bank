@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, #ae1e51, #c03969, #d25181, #e36899, #f47eb2);
+  font-family: 'Roboto Condensed', sans-serif;
+
+}

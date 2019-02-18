@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed|Roboto+Mono");
+body {
+  background-image: linear-gradient(
+    to right,
+    #ae1e1e,
+    #bd2a43,
+    #c63d66,
+    #c95286,
+    #c668a4
+  );
+}
+.appbar1 {
+  font-weight: bold;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.card1 {
+  margin: auto;
+  margin-top: 35px;
+  width: 35%;
+  border-radius: 18px;
+  background: aliceblue;
+  padding: 20px;
+  color: #ae1e1e;
+  /* height:100%; */
+}
+.title2 {
+  font-size: 40px;
+  color: #ae1e1e;
+}
+.userpass {
+  text-align: center;
+  color: white;
+}
+.button1 {
+  margin-bottom: 20px;
+}
+.textcol {
+  color: white;
+}
+.redray1 {
+  margin-left: 200px;
+  font-size: 30px;
+  color: #ae1e1e;
+  font-weight: bold;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.menuitem1 {
+  color: #ae1e1e;
+  font-weight: bold;
+  font-family: "Roboto Condensed", sans-serif;
+}
